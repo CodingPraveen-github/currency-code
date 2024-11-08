@@ -1,2 +1,2 @@
-# currency-code
+# currency convert-code
 currency
